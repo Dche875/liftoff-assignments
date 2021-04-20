@@ -22,7 +22,7 @@ Search: Users will be able to search for specific trials by text, location, tags
 
 Write Review: Users will be able to leave a review about a specific trail when logged in and rate it (1-5 stars).
 
-User Login: Users will be able to create an account to access features such as leaving a review or favoriting a trail and viewing all user reviews.
+User Login: Users will be able to create an account to access features such as leaving a review or favorite a trail and viewing all user reviews.
 
 Meetup: Users will be able to plan to meet with other users at certain trail by location, date and time.
 
