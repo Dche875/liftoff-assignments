@@ -1,10 +1,17 @@
 # Project Outline
+
+---
 For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
 
 ## Assignment Description
+
+---
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
 ## Submission Instructions
+
+---
+
 
 ### Overview
 We are creating this application to make the process of locating trails more simple and efficient for users searching for a specific feature of a trail.
@@ -14,6 +21,7 @@ pets”, “children friendly”, “rivers”, “paved/ asphalt”, “dirt”
 
 We came up with the idea because from having the same shared desire to find local hiking trails that fit our specific needs
 
+---
 
 ### Features
 The application we are creating will include features/functionalities such as:
@@ -26,6 +34,7 @@ The application we are creating will include features/functionalities such as:
 
 - Meetup: Users will be able to plan to meet with other users at certain trail by location, date and time.
 
+---
 
 ### Technologies
 - Java
@@ -33,9 +42,12 @@ The application we are creating will include features/functionalities such as:
 - MySQL 
 - Hibernate
 - Thymeleaf Templates
+---
 
 ### What I'll Have to Learn
 We will need to learn how to incorporate a map system using google api when users search using location and develop a rating system when users leave reviews for trails.
+
+---
 
 ### Project Tracker
 [Trello Board](https://trello.com/b/zvhX05wm/liftoff-project)

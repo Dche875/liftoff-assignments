@@ -7,10 +7,11 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-https://github.com/Dche875
+
+[Diana's GitHub Account](https://github.com/Dche875)
 
 ### LinkedIn
-https://www.linkedin.com/in/diana-che-458a9b154/
+[Diana's LinkedIn Account](https://www.linkedin.com/in/diana-che-458a9b154/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
