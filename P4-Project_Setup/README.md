@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[Project Repository](https://github.com/Dche875/Liftoff_April21_Oksana_Group_Project)
+[TrailTracker Repository](https://github.com/oksanayatskiv/Liftoff_April21_Oksana_Group_Project)

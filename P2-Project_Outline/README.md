@@ -18,24 +18,24 @@ We came up with the idea because from having the same shared desire to find loca
 ### Features
 The application we are creating will include features/functionalities such as:
 
-Search: Users will be able to search for specific trials by text, location, tags, or duration.
+- Search: Users will be able to search for specific trials by text, location, tags, or duration.
 
-Write Review: Users will be able to leave a review about a specific trail when logged in and rate it (1-5 stars).
+- Write Review: Users will be able to leave a review about a specific trail when logged in and rate it (1-5 stars).
 
-User Login: Users will be able to create an account to access features such as leaving a review or favorite a trail and viewing all user reviews.
+- User Login: Users will be able to create an account to access features such as leaving a review or favorite a trail and viewing all user reviews.
 
-Meetup: Users will be able to plan to meet with other users at certain trail by location, date and time.
+- Meetup: Users will be able to plan to meet with other users at certain trail by location, date and time.
 
 
 ### Technologies
-Java
-Spring Boot
-MySQL
-Hibernate
-Thymeleaf Templates
+- Java
+- Spring Boot
+- MySQL 
+- Hibernate
+- Thymeleaf Templates
 
 ### What I'll Have to Learn
-We will need to learn how to incorporate a map system using google api when users search using location, develop a rating system when users leave reviews for trails.
+We will need to learn how to incorporate a map system using google api when users search using location and develop a rating system when users leave reviews for trails.
 
 ### Project Tracker
-https://trello.com/b/zvhX05wm/liftoff-project
+[Trello Board](https://trello.com/b/zvhX05wm/liftoff-project)
